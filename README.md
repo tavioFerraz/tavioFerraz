@@ -1,5 +1,5 @@
 ## println ("Salve👋");
-<img src= "https://s2-g1.glbimg.com/Hri-afH6YYbveBbiprzKoprO0T4=/0x0:1958x1495/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/X/h/CIACb2QAmrCrcwQrcHEA/raiamsantos.jpg" height= "32" alt= "foto" title"sociologo">
+<img src= "https://s2-g1.glbimg.com/Hri-afH6YYbveBbiprzKoprO0T4=/0x0:1958x1495/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/X/h/CIACb2QAmrCrcwQrcHEA/raiamsantos.jpg" height= "32" alt= "foto" title="sociologo">
 <!--
 **tavioFerraz/tavioFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
